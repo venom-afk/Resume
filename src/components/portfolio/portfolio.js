@@ -190,7 +190,7 @@ function portfolio() {
         <hr />
         <div className='pdf'>
           <a href='/content/Ammar Resume.pdf' target='_blank'>
-            Download Link
+            Download PDF Version
           </a>
         </div>
         <br />
