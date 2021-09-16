@@ -15,7 +15,12 @@
   background-color: #3a7fad;
   color: white;
   padding: 15px 25px;
+  border-radius: 330px;
   text-decoration: none;
+}
+.pdf img {
+  width: 60px;
+  height: 50px;
 }
 .pdf:hover {
   color: #199319;

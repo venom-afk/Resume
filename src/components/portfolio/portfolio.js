@@ -153,13 +153,19 @@ function portfolio() {
             <li>Deployment on Heroku server.</li>
             <li>
               Project Link:{' '}
-              <a href='https://afternoon-lake-19718.herokuapp.com/.'>
+              <a
+                href='https://afternoon-lake-19718.herokuapp.com/.'
+                target='_blank'
+              >
                 DevConnector (Click to view)
               </a>
             </li>
             <li>
               Git Repository:{' '}
-              <a href='https://github.com/venom-afk/Social-network-for-Developers/tree/master.'>
+              <a
+                href='https://github.com/venom-afk/Social-network-for-Developers/tree/master.'
+                target='_blank'
+              >
                 DevConnector Repository (Click to view)
               </a>
             </li>
